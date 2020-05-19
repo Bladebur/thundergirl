@@ -1,0 +1,25 @@
+{
+  "name": "thundergirl",
+  "description": "Short & kinky interactive fiction game written in Javascript ",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bladebur/thundergirl.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sync": "^0.8.0",
+    "jit-grunt": "^0.10.0",
+    "merge-source-maps": "^0.5.0",
+    "time-grunt": "^1.4.0"
+  }
+}
